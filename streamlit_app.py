@@ -24,14 +24,6 @@ st.markdown("""
         text-align: center;
         margin-bottom: 2rem;
     }
-    .demo-box {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        color: white;
-        padding: 2rem;
-        border-radius: 1rem;
-        text-align: center;
-        margin: 2rem 0;
-    }
     .feature-card {
         background-color: #f8f9fa;
         padding: 1.5rem;
@@ -46,28 +38,14 @@ st.markdown("""
 st.markdown('<div class="main-header">🏥 MedConnect Intelligence</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Clinical Reasoning AI Co-Pilot | Powered by MedGemma 1.5</div>', unsafe_allow_html=True)
 
-# Main CTA for working demo
-st.markdown("""
-<div class="demo-box">
-    <h2>🚀 Try the Full Working Demo</h2>
-    <p style="font-size: 1.2rem; margin: 1rem 0;">
-        Experience MedConnect Intelligence with real-time MedGemma analysis on Kaggle's GPU
-    </p>
-    <a href="https://www.kaggle.com/code/donlapidos/medgemma-clinical-intelligence-aki-detection" target="_blank" style="
-        background: white;
-        color: #667eea;
-        padding: 1rem 2rem;
-        border-radius: 0.5rem;
-        text-decoration: none;
-        font-weight: bold;
-        font-size: 1.1rem;
-        display: inline-block;
-        margin-top: 1rem;
-    ">
-        🔬 Launch Kaggle Demo (GPU-Powered)
-    </a>
-</div>
-""", unsafe_allow_html=True)
+# Main CTA for working demo - subtle version
+st.info("""
+🚀 **Try the Full Working Demo**
+
+For real-time MedGemma analysis with GPU acceleration, visit the **[Kaggle Notebook →](https://www.kaggle.com/code/donlapidos/medgemma-clinical-intelligence-aki-detection)**
+
+*This Streamlit app showcases the interface. The Kaggle version provides complete clinical reasoning with faster inference.*
+""")
 
 # Sidebar
 with st.sidebar:

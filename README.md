@@ -1,42 +1,45 @@
-﻿# MedConnect Intelligence
+# MedConnect Intelligence
 
 🏥 Clinical Reasoning AI Co-Pilot | Powered by Google MedGemma 1.5
 
-## Live Demo
+## 🚀 Live Demos
 
-🚀 **[Try the live demo →](https://medconnect-intelligence.streamlit.app)**
+**Full Working Demo (Recommended):**
+🔬 **[Kaggle Notebook (GPU-Powered)](https://www.kaggle.com/code/donlapidos/medgemma-clinical-intelligence-aki-detection)** ← **Try this first!**
+- Real-time MedGemma 1.5 analysis
+- Fast inference on GPU
+- All code visible with outputs
+- MIMIC-III validation included
+
+**Interface Showcase:**
+🎨 **[Streamlit App](https://medconnect-intelligence.streamlit.app)**
+- UI preview
+- Sample cases
+- Validation results
+- Project documentation
 
 ## About
 
 MedConnect Intelligence provides explainable AI-powered clinical reasoning for sepsis and acute kidney injury detection. Built on Google's MedGemma 1.5 foundation model, validated with real ICU data from MIMIC-III.
 
-### Key Features
+### ✅ Validation
 
-- 🩺 Interactive patient analysis
-- 📋 Pre-loaded clinical cases
-- 💾 CSV batch processing
-- 📊 Evidence-based validation (Lausanne study)
-- 🤖 Explainable clinical reasoning
+**MIMIC-III Critical Care Database:**
+- 29 AKI cases extracted and analyzed
+- 25 Sepsis cases extracted and analyzed
+- 10 patients with detailed MedGemma reasoning
+- All CSV files available in `/validation` folder
 
-### Clinical Evidence
+**Clinical Evidence:**
+- Based on Lausanne University Hospital study (97,559 patients)
+- 25% reduction in sepsis mortality validated
+- 131% improvement in documentation
 
-Based on Lausanne University Hospital study (97,559 patients):
-- **25% reduction in sepsis mortality**
-- **131% improvement in documentation**
-- Earlier intervention through AI assistance
+### 🏆 Competition
 
-### Technology
-
-- **Model:** Google MedGemma 1.5 (4B parameters)
-- **Validation:** MIMIC-III Critical Care Database
-- **Deployment:** Streamlit Cloud
-
-### Competition
-
-Built for **MedGemma Impact Challenge** on Kaggle
-- Deadline: February 24, 2026
-- Category: Clinical Decision Support
+**MedGemma Impact Challenge** on Kaggle
+Deadline: February 24, 2026
 
 ---
 
-**Developer:** Lionel Lapidos
+**Developer:** Lionel Lapidos (Kuching, Sarawak, Malaysia)

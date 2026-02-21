@@ -1,0 +1,5 @@
+.\venv\Scripts\Activate.ps1
+
+env:HF_TOKEN = "YOUR_HUGGING_FACE_TOKEN_HERE"
+
+streamlit run streamlit_app.py

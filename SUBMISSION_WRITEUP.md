@@ -280,7 +280,7 @@ Lausanne study showed improved sepsis coding from 1.55% → 3.58%
 
 ---
 
-## Why We'll Win This Challenge
+## Key Differentiators
 
 ### 1. Clinical Evidence Foundation
 We're not guessing if this works - Lausanne proved 25% mortality reduction with 97,559 patients.

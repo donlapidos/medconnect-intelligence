@@ -268,7 +268,7 @@ with tab4:
 
     **Competition:** MedGemma Impact Challenge (Kaggle)
     **Deadline:** February 24, 2026
-    **Developer:** Lionel Lapidos (Kuching, Sarawak, Malaysia)
+    **Developer:** Lionel Lapidos
     """)
 
 # Footer

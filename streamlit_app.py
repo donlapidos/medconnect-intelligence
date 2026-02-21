@@ -444,7 +444,7 @@ with tab4:
     ---
     
     **Built for:** MedGemma Impact Challenge (Kaggle)  
-    **Developer:** Gotalk Studios  
+    **Developer:** Lionel Lapidos
     **Deadline:** February 24, 2026
     """)
     

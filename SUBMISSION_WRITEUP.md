@@ -304,7 +304,7 @@ match for AI assistance.
 
 ## Team & Contact
 
-**Developer:** Gotalk Studios (Lionel, Kuching, Sarawak)
+**Developer:** Lionel Lapidos (Kuching, Sarawak)
 
 **Background:**
 - Podcast host: "Sarawak Local Entrepreneurs"

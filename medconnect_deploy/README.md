@@ -51,4 +51,4 @@ Based on Lausanne University Hospital study (2026):
 
 ---
 
-**Developer:** Gotalk Studios
+**Developer:** Lionel Lapidos

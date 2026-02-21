@@ -304,13 +304,8 @@ match for AI assistance.
 
 ## Team & Contact
 
-**Developer:** Lionel Lapidos (Kuching, Sarawak)
-
-**Background:**
-- Podcast host: "Sarawak Local Entrepreneurs"
-- Technical expertise: WordPress, MCP servers, AI tools
-- Healthcare interest: Building solutions for local community
-- MedGemma Challenge: Bringing advanced AI to Sarawak healthcare
+**Developer:** Lionel Lapidos
+**LinkedIn:** [linkedin.com/in/donlapidos](https://www.linkedin.com/in/donlapidos/)
 
 ---
 

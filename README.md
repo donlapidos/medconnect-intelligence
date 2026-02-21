@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-🚀 **[Try the live demo →](https://medconnect-intelligence.streamlit.app)** *(will be updated after deployment)*
+🚀 **[Try the live demo →](https://medconnect-intelligence.streamlit.app)**
 
 ## About
 

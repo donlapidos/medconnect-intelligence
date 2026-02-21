@@ -1,0 +1,11 @@
+subject_id,type,severity,creatinine_current,analysis_provided,sirs_met
+10006,AKI,Stage 3 (Severe),5.9,YES,
+10019,AKI,Stage 3 (Severe),4.0,YES,
+10027,AKI,Stage 2 (Moderate),1.4,YES,
+10029,AKI,Stage 3 (Severe),3.0,YES,
+10032,AKI,Stage 2 (Moderate),0.9,YES,
+10006,Sepsis,Severe Sepsis (Lactate 2-4),,YES,2/4
+10013,Sepsis,Sepsis (SIRS ≥2),,YES,4/4
+10017,Sepsis,Sepsis (SIRS ≥2),,YES,4/4
+10019,Sepsis,Septic Shock (Lactate >4),,YES,2/4
+10027,Sepsis,Sepsis (SIRS ≥2),,YES,2/4

@@ -52,6 +52,11 @@ st.markdown("""
 st.markdown('<div class="main-header">🏥 MedConnect Intelligence</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Clinical Reasoning AI Co-Pilot | Powered by MedGemma 1.5</div>', unsafe_allow_html=True)
 
+st.info("""
+⚠️ **Note:** This demo runs on CPU (no GPU available on Streamlit Cloud).
+Analysis takes 30-60 seconds per patient. For faster demo, see the [Kaggle notebook](YOUR_KAGGLE_URL) which runs on GPU.
+""")
+
 # Sidebar - Clinical Evidence
 with st.sidebar:
     st.header("📊 Clinical Evidence")
@@ -115,11 +120,11 @@ if 'model_loaded' not in st.session_state:
 def load_model():
     tokenizer = AutoTokenizer.from_pretrained("google/medgemma-1.5-4b-it")
     
-    # CPU-friendly loading (slower but works everywhere)
+    # CPU-friendly loading for Streamlit Cloud (no GPU available)
     model = AutoModelForCausalLM.from_pretrained(
         "google/medgemma-1.5-4b-it",
-        torch_dtype=torch.float32,
         device_map="cpu",
+        dtype=torch.float32,
         low_cpu_mem_usage=True
     )
     return tokenizer, model

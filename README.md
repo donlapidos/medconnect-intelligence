@@ -53,7 +53,6 @@ MedConnect Intelligence provides explainable AI-powered clinical reasoning for s
 ### 🏆 Competition
 
 **MedGemma Impact Challenge** on Kaggle
-Deadline: February 24, 2026
 
 ---
 

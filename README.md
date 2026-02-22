@@ -1,6 +1,16 @@
 # MedConnect Intelligence
 
-🏥 Clinical Reasoning AI Co-Pilot | Powered by Google MedGemma 1.5
+🏥 **Clinical Reasoning AI Co-Pilot** | Powered by Google MedGemma 1.5
+
+![MedConnect Interface](images/streamlit-hero.png)
+
+## 🎥 Watch the Demo (~4.5 minutes)
+
+[![Demo Video](https://img.youtube.com/vi/NUUc-nE0W5o/maxresdefault.jpg)](https://youtu.be/NUUc-nE0W5o)
+
+👆 **Click to watch** - See MedConnect Intelligence analyzing real ICU patients
+
+---
 
 ## 🚀 Live Demos
 

@@ -3,6 +3,11 @@
 
 ### 🏆 MedGemma Impact Challenge Submission
 
+**Quick Links:**
+- 🎥 [Demo Video (~4.5 min)](https://youtu.be/NUUc-nE0W5o) ← **Start here!**
+- 🚀 [Live Kaggle Demo](https://www.kaggle.com/code/donlapidos/medgemma-clinical-intelligence-aki-detection)
+- 💻 [GitHub Repository](https://github.com/donlapidos/medconnect-intelligence)
+
 ---
 
 ## Executive Summary

@@ -1,5 +1,14 @@
 # MedConnect Intelligence - All Links
 
+## 🎥 Demo Video
+
+**4.5-Minute Overview (Recommended Starting Point):**
+[Watch on YouTube →](https://youtu.be/NUUc-nE0W5o)
+- Problem explanation
+- Solution demonstration
+- Live Kaggle demo walkthrough
+- MIMIC-III validation results
+
 ## 🚀 Live Demos
 
 **Full Working Demo (GPU-Powered):** ⭐ **RECOMMENDED**

@@ -18,6 +18,21 @@
 - Validation results
 - Project documentation
 
+---
+
+## Screenshots
+
+### Streamlit App — Interface Overview
+![Streamlit App](images/streamlit-hero.png)
+
+### MedGemma — Live Clinical Reasoning (Kaggle GPU)
+![Kaggle Demo](images/kaggle-demo.png)
+
+### MIMIC-III Validation Results
+![MIMIC-III Validation](images/mimic-validation.png)
+
+---
+
 ## About
 
 MedConnect Intelligence provides explainable AI-powered clinical reasoning for sepsis and acute kidney injury detection. Built on Google's MedGemma 1.5 foundation model, validated with real ICU data from MIMIC-III.
